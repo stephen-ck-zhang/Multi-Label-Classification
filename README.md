@@ -4,6 +4,8 @@ _This is the class project in New York University Natural Language Processing cl
 
 **A movie can embody multiple genres, and we create a system that can predict movie genres based on its plot overview.**
 
+**The corresponding paper can be accessed at:** ([https://drive.google.com/file/d/1Eh8ZDyB6aEgOvDdjTpPwRtkI3CpvSt9m/view?usp=sharing](url))
+
 
 The System is based on the existing movie dataset, The Movies Dataset, and it is publicly available on Kaggle. ([https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv](url)) And we have downloaded for our experiment, please check it in _movies_metadata.csv_, which includes metadata of over 45,000 movies.
 
