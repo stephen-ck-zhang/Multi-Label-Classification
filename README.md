@@ -25,6 +25,6 @@ This is the implementation of our comparison models, GloVe+BiLSTM & GloVe+CNN. P
 **MovieClassification_RoBERTa.ipynb**
 This is the implementation of our final system, RoBERTa. Please make sure the envirnoment is set up and run the cells to check the results. Also, keeping the preprocessed dataset in the same directory.
 
-Note, you can use our preprocessed data in the _Data_ file. This is resulting data by runing our _Data_Preprocessing.ipynb_ file.
+Note, you can use our preprocessed data in the _Data_ file. This is the resulting data by runing our _Data_Preprocessing.ipynb_ file.
 
 People who contribute this system: Andy Wang (gw1035@nyu.edu), Stephen Zhang (cz1906@nyu.edu), Koji Liu (ml7324@nyu.edu), Matthew Li (sl7029@nyu.edu)
