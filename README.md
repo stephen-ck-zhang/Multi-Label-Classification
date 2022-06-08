@@ -10,7 +10,7 @@ _This is the class project in New York University Natural Language Processing cl
 The system is based on the existing movie dataset, The Movies Dataset, and it is publicly available on [Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv). We have already downloaded for our experiment, please check it in `dataset/movies_metadata.csv`, which includes metadata of over 45,000 movies.
 
 
-There are four models built, including our final system, RoBERTa; two comparison models, GloVe+CNN & GloVe+BiLSTM; and our baseline, TF-IDF+LR.
+There are four models built, including our final system, RoBERTa; two comparison models, GloVe+CNN & GloVe+BiLSTM; and our baseline, TF-IDF+LR. And they can be found in `multiclassification/models` directory.
 
 **Data_Preprocessing.ipynb**
 This is our data preprocessing & cleaning file. Data with non-English overviews or invalid overviews (NaN) aredropped. Raw genre labels, originally in JSON
