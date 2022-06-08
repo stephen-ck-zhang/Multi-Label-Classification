@@ -1,4 +1,4 @@
-# Multi-Label-Classification
+## Multi-Label-Classification
 
 _This is the class project in New York University Natural Language Processing class during 2022 Spring. All rights reserved._
 
@@ -28,4 +28,4 @@ This is the implementation of our final system, RoBERTa. Please make sure the en
 Note, you can use our preprocessed data in the _Data_ file. This is the resulting data by runing our _Data_Preprocessing.ipynb_ file.
 
 ##
-People who contribute this system: Andy Wang (gw1035@nyu.edu), Stephen Zhang (cz1906@nyu.edu), Koji Liu (ml7324@nyu.edu), Matthew Li (sl7029@nyu.edu)
+People who contribute to this system: Andy Wang (gw1035@nyu.edu), Stephen Zhang (cz1906@nyu.edu), Koji Liu (ml7324@nyu.edu), Matthew Li (sl7029@nyu.edu)
