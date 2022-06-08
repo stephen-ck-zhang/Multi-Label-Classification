@@ -14,7 +14,7 @@ There are four models built, including our final system, RoBERTa; two comparison
 
 **Data_Preprocessing.ipynb**
 This is our data preprocessing & cleaning file. Data with non-English overviews or invalid overviews (NaN) aredropped. Raw genre labels, originally in JSON
-format, are transformed into Python lists of strings and stored Pandas Dataframe form. Also, The dataset is split into 70% of training data, 15% of validation data, and 15% of test data. The split data is stored into 3 CSV files for our experiment, you can check it in _Data_ file.
+format, are transformed into Python lists of strings and stored Pandas Dataframe form. Also, The dataset is split into 70% of training data, 15% of validation data, and 15% of test data. The split data is stored into 3 CSV files for our experiment, you can check it in `multiclassification/data` file.
 
 **MovieClassification_Baseline.ipynb**
 This is the implementation of our baseline, TF-IDF+Logistic Regression. Please make sure the envirnoment is set up and run the cells to check the results. Also, keeping the preprocessed dataset in the same directory.
